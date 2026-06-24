@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
+| [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-0301/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
