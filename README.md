@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-0301/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Ayush-0301/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -101,12 +103,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Ayush-0301/Leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
