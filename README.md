@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-0301/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Ayush-0301/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-0301/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ayush-0301/Leetcode/tree/master/0038-count-and-say) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3340-check-balanced-string](https://github.com/Ayush-0301/Leetcode/tree/master/3340-check-balanced-string) |
 ## Backtracking
 |  |
