@@ -10,18 +10,13 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if (head == null)
-            return null;
-        ListNode p = null;//previous
-        ListNode f = null;//forward
-        ListNode c = head;//current
-        while (c != null) {
-            f = c.next;
-            c.next = p;
-            p = c;
-            c = f;
+        //2nd Approach Recursion
+        if(head == null || head.next == null) return head; 
+        ListNode a = head.next;
+        head.next = null;
+        ListNode b = reverseList(a);
+        a.next = head;
+        return b;
 
-        }
-        return p;
     }
 }
