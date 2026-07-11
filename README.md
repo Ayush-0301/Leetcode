@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Ayush-0301/Leetcode/tree/master/0263-ugly-number) |
+| [0445-add-two-numbers-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-0301/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-0301/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Ayush-0301/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
