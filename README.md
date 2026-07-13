@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/Ayush-0301/Leetcode/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1025-divisor-game](https://github.com/Ayush-0301/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Ayush-0301/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-0301/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/Ayush-0301/Leetcode/tree/master/1025-divisor-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ayush-0301/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Ayush-0301/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
