@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayush-0301/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ayush-0301/Leetcode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
+| [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
