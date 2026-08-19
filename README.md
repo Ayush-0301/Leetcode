@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Ayush-0301/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-0301/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Ayush-0301/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-0301/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-0301/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ayush-0301/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ayush-0301/Leetcode/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-0301/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayush-0301/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
