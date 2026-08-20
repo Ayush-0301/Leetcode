@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-0301/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-0301/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Ayush-0301/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush-0301/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-0301/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-0301/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Ayush-0301/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush-0301/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
