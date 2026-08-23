@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayush-0301/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ayush-0301/Leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-0301/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-0301/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush-0301/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ayush-0301/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ayush-0301/Leetcode/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-0301/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
