@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Ayush-0301/Leetcode/tree/master/0198-house-robber) |
 | [1025-divisor-game](https://github.com/Ayush-0301/Leetcode/tree/master/1025-divisor-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Ayush-0301/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Combinatorics
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ayush-0301/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush-0301/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Ayush-0301/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Ayush-0301/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ayush-0301/Leetcode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-0301/Leetcode/tree/master/0287-find-the-duplicate-number) |
