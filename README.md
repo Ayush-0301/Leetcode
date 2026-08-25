@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-0301/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Ayush-0301/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-0301/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ayush-0301/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush-0301/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-0301/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
