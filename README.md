@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ayush-0301/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Ayush-0301/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Ayush-0301/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-0301/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ayush-0301/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-0301/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-0301/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-0301/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ayush-0301/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Brainteaser
