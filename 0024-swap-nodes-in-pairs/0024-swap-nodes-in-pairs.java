@@ -10,23 +10,21 @@
  */
 class Solution {
     public ListNode swapPairs(ListNode head) {
-        if(head == null) return null;
-        ArrayList<ListNode> arr = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null){
-            arr.add(temp);
-            temp = temp.next;
-        }
-        for(int i = 0 ;i<arr.size()-1;i = i+2){
-            ListNode t = arr.get(i);
-          arr.set(i, arr.get(i + 1));
-            arr.set(i + 1, t);
-        }
-        for(int i = 0;i<arr.size()-1;i++){
-            arr.get(i).next = arr.get(i+1);
-        }
+        if(head == null || head.next == null) return head;
+        ListNode d  = new ListNode(-1);
+        ListNode a = head;
+        ListNode b = head.next;
+        ListNode c = d;
+        while(a != null && b != null){
+            c.next = b;
+            a.next = b.next;
+            b.next = a;
+            c = a;
+            a = a.next;
+           if(a!= null) b = a.next;
 
-        arr.get(arr.size()-1).next = null;
-        return arr.get(0);
+        }
+        return d.next;
+
     }
 }
