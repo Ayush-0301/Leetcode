@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-0301/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ayush-0301/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Ayush-0301/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ayush-0301/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3099-harshad-number](https://github.com/Ayush-0301/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-0301/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
