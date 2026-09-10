@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Ayush-0301/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-0301/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ayush-0301/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3099-harshad-number](https://github.com/Ayush-0301/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-0301/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush-0301/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-0301/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ayush-0301/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## K-D Tree
 |  |
 | ------- |
