@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Ayush-0301/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ayush-0301/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Ayush-0301/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Ayush-0301/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [3099-harshad-number](https://github.com/Ayush-0301/Leetcode/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-0301/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayush-0301/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
