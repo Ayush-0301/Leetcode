@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-0301/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ayush-0301/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-0301/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1952-three-divisors](https://github.com/Ayush-0301/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ayush-0301/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Ayush-0301/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Ayush-0301/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Ayush-0301/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayush-0301/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/Ayush-0301/Leetcode/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ayush-0301/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## DP on Trees
 |  |
@@ -540,4 +543,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-0301/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ayush-0301/Leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Ayush-0301/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
