@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ayush-0301/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush-0301/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ayush-0301/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush-0301/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ayush-0301/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Ayush-0301/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Ayush-0301/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Ayush-0301/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
