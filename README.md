@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Ayush-0301/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-0301/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Ayush-0301/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ayush-0301/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Ayush-0301/Leetcode/tree/master/2810-faulty-keyboard) |
 | [3110-score-of-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/3110-score-of-a-string) |
 | [3340-check-balanced-string](https://github.com/Ayush-0301/Leetcode/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayush-0301/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ayush-0301/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
