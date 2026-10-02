@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ayush-0301/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Ayush-0301/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayush-0301/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayush-0301/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayush-0301/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-0301/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ayush-0301/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayush-0301/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayush-0301/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ayush-0301/Leetcode/tree/master/0075-sort-colors) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Ayush-0301/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Bubble Sort
 |  |
 | ------- |
