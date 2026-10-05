@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ayush-0301/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-0301/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3701-compute-alternating-sum](https://github.com/Ayush-0301/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-0301/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ayush-0301/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ayush-0301/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2716-minimize-string-length](https://github.com/Ayush-0301/Leetcode/tree/master/2716-minimize-string-length) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Ayush-0301/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-0301/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ayush-0301/Leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Ayush-0301/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
