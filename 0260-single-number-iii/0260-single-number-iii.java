@@ -1,24 +1,18 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-  HashSet<Integer> set = new HashSet<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            if (set.contains(nums[i])) {
-                set.remove(nums[i]);
-            } else {
-                set.add(nums[i]);
-            }
+        int xor = 0;
+        for(int ele : nums){
+            xor ^= ele;
         }
-
-        int[] r = new int[2];
-        int i = 0;
-
-        for (int num : set) {
-            r[i] = num;
-            i++;
+        int mask = (xor&(xor -1 )^xor );
+        int b1 = 0 ;
+        int b2 = 0 ;
+        for(int ele : nums){
+            if((ele & mask) != 0) b1 ^= ele;
+            else b2 ^= ele;
         }
-
-        return r;
+        int []ans = {b1,b2};
+        Arrays.sort(ans);
+        return ans;
     }
-
 }
