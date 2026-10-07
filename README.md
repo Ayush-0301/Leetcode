@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ayush-0301/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush-0301/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ayush-0301/Leetcode/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayush-0301/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Ayush-0301/Leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Ayush-0301/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Ayush-0301/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Ayush-0301/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ayush-0301/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-0301/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ayush-0301/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ayush-0301/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-0301/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayush-0301/Leetcode/tree/master/0455-assign-cookies) |
