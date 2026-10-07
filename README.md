@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ayush-0301/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Ayush-0301/Leetcode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Ayush-0301/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0941-valid-mountain-array](https://github.com/Ayush-0301/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-0301/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Ayush-0301/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Ayush-0301/Leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Ayush-0301/Leetcode/tree/master/0860-lemonade-change) |
 | [0861-score-after-flipping-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ayush-0301/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ayush-0301/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
