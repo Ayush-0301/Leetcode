@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayush-0301/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayush-0301/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1995-count-special-quadruplets](https://github.com/Ayush-0301/Leetcode/tree/master/1995-count-special-quadruplets) |
+| [2090-k-radius-subarray-averages](https://github.com/Ayush-0301/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ayush-0301/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ayush-0301/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayush-0301/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-0301/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-0301/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2090-k-radius-subarray-averages](https://github.com/Ayush-0301/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Prime Factorization
 |  |
 | ------- |
