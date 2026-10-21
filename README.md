@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ayush-0301/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ayush-0301/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Ayush-0301/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Ayush-0301/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Ayush-0301/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Ayush-0301/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ayush-0301/Leetcode/tree/master/0739-daily-temperatures) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-0301/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Ayush-0301/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-0301/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2090-k-radius-subarray-averages](https://github.com/Ayush-0301/Leetcode/tree/master/2090-k-radius-subarray-averages) |
 ## Prime Factorization
