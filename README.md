@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ayush-0301/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayush-0301/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ayush-0301/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Ayush-0301/Leetcode/tree/master/1046-last-stone-weight) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ayush-0301/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayush-0301/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayush-0301/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/Ayush-0301/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/Ayush-0301/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ayush-0301/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Ayush-0301/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Depth-First Search
